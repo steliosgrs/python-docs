@@ -94,6 +94,12 @@ variable = input("Δώσε μεταβλητή ")
 print(variable + variable + variable)
 ```
 
+### Άσκηση 3η
+
+- Πόσα δευτερόλεπτα είναι τα 42 λεπτά και τα 42 δευτερόλεπτα
+- Πόσα μίλια αντιστοιχούν σε 10 χλμ . Ένα μίλι είναι 1.61 χλμ
+- Εάν τρέξουμε έναν αγώνα δρόμου 10 χλμ σε 42 λεπτά και τα 42 δευτερόλεπτα, ποια είναι η μέση ταχύτητά σας σε μίλια ανά ώρα;
+
 ## Sources - Notes
 
 - D:\_COURSES\[TutsNode.com] - Python A-Z - Learn Python Programming By Building 5 Projects
